@@ -3,7 +3,7 @@
     "path": "~/Public/Projects/msodbc/R/msconn.R",
     "project_path": "R/msconn.R",
     "type": "r_source",
-    "hash": "2115754683",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1607644809943.0,
@@ -11,7 +11,7 @@
     "relative_order": 5,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "2,0",
+        "cursorPosition": "10,42",
         "scrollLine": "0",
         "marks": "<:0,0\n>:5,29"
     },
