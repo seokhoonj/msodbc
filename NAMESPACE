@@ -2,6 +2,7 @@
 
 export(msconn)
 export(mssql)
+export(mswrite)
 import(DBI)
 import(odbc)
 useDynLib(msodbc, .registration=TRUE)
