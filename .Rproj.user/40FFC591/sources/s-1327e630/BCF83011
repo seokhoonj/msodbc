@@ -1,7 +1,7 @@
 {
     "id": "BCF83011",
-    "path": "~/Public/Projects/msodbc/R/sql.R",
-    "project_path": "R/sql.R",
+    "path": "~/Public/Projects/msodbc/R/mssql.R",
+    "project_path": "R/mssql.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
@@ -11,16 +11,16 @@
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "7,46",
+        "cursorPosition": "4,14",
         "scrollLine": "0",
-        "marks": "<:0,7\n>:0,7"
+        "marks": "<:0,9\n>:0,9\nl:4,5"
     },
     "folds": "",
-    "lastKnownWriteTime": 1607650347,
+    "lastKnownWriteTime": 1607651000,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1607650377910,
+    "last_content_update": 1607651030813,
     "read_only": false,
     "read_only_alternatives": []
 }

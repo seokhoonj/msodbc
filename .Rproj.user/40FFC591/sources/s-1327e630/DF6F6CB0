@@ -3,7 +3,7 @@
     "path": "~/Public/Projects/msodbc/NAMESPACE.old",
     "project_path": "NAMESPACE.old",
     "type": "text",
-    "hash": "3251591836",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1607648581609.0,
@@ -12,14 +12,14 @@
     "properties": {
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "marks": "<:5,0\n>:5,0"
+        "marks": "<:0,0\n>:5,-1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1607648462,
+    "lastKnownWriteTime": 1607650957,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1607648462,
+    "last_content_update": 1607650987226,
     "read_only": false,
     "read_only_alternatives": []
 }
