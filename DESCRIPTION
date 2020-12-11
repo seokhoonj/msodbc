@@ -1,0 +1,15 @@
+Package: msodbc
+Type: Package
+Title: Simplified MS-SQL handling tools 
+Version: 1.0
+Date: 2020-12-11
+Author: Seokhoon Joo 
+Maintainer: Seokhoon Joo <seokhoonj@email.com>
+Description: Simplified MS-SQL handling tools
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0)
+Imports: Rcpp (>= 1.0.5), DBI, odbc
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1

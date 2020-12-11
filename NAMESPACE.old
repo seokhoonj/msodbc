@@ -1,0 +1,5 @@
+export(msconn)
+export(sql)
+import(DBI)
+import(odbc)
+useDynLib(msodbc, .registration=TRUE)
