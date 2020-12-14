@@ -8,5 +8,6 @@ msconn <- function(dsn, db, path) {
   msconn <- dbConnect(drv = odbc::odbc(),
                       dsn = dsn,
                       database = db,
-                      options = paste0("-c search_path=", path))
+                      options = paste0("-c search_path=", path),
+                      DBMSencoding = "UTF-8")
 }
