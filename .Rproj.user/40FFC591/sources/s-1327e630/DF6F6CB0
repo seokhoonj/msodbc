@@ -10,16 +10,16 @@
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "cursorPosition": "6,0",
+        "cursorPosition": "0,0",
         "scrollLine": "0",
-        "marks": "<:2,9\n>:2,9"
+        "marks": "<:0,9\n>:0,9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1607654614,
+    "lastKnownWriteTime": 1608007445,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1607654644380,
+    "last_content_update": 1608007475484,
     "read_only": false,
     "read_only_alternatives": []
 }
