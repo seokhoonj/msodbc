@@ -1,3 +1,4 @@
+export(clean)
 export(pycon)
 export(pysql)
 export(mscon)
