@@ -3,7 +3,7 @@
     "path": "~/Public/Projects/msodbc/R/msconn.R",
     "project_path": "R/msconn.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3134385217",
     "contents": "",
     "dirty": false,
     "created": 1607644809943.0,
@@ -11,16 +11,16 @@
     "relative_order": 5,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "10,46",
+        "cursorPosition": "0,0",
         "scrollLine": "0",
-        "marks": "<:0,0\n>:5,29"
+        "marks": "<:11,37\n>:11,37"
     },
     "folds": "",
-    "lastKnownWriteTime": 1607937179,
+    "lastKnownWriteTime": 1607991792,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1607937209318,
+    "last_content_update": 1607991822238,
     "read_only": false,
     "read_only_alternatives": []
 }
